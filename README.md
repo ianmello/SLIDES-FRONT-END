@@ -8,3 +8,5 @@
 3- Dois alunos, Daniel e Carlos, conversam sobre o uso do elemento HTML “table”--------- III.
 
 4- Os atributos “itemscope” e "itemtype” podem ser aplicados a elementos HTML comuns, como um “h1”, um “article” e até um “video”. Além disso, seu uso está relacionado à especificação dos microdados de uma página----- Verdadeiro
+
+5-É correto dizer que todo o CSS utilizado pela página a seguir é do tipo “inline”, ainda que existam regras duplicadas------ Falso
