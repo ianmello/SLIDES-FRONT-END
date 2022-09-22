@@ -17,3 +17,5 @@
 Qual frase descreve corretamente os elementos HTML afetados por ele--------- Todo elemento “p” que tenha o id promocao que seja descendente de um elemento que tenha a classe principal.
 
 8- É correto dizer que todo o CSS utilizado pela página a seguir é do tipo “inline”, ainda que existam regras duplicadas---- Falso
+
+9- Considere o seguinte trecho de código------------III
